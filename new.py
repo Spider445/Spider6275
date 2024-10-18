@@ -66,10 +66,10 @@ import os
 # Join :- @rzrdevil #from keep_alive import keep_alive
 # Join :- @rzrdevil #keep_alive()
 # Join :- @rzrdevil # insert your Telegram bot token here
-bot = telebot.TeleBot('7380545637:AAEKIL8WyC_nIOeiiRrbbVH_F84m03iHk60')
+bot = telebot.TeleBot('7214646972:AAETOfxFJi3dGnahSvZRctIQ2d7ZwdYT9DA')
 
 # Join :- @rzrdevil # Admin user IDs
-admin_id = ["1328107711","1908095816","1537783826"]
+admin_id = ["7133544756","7107959908"]
 
 # Join :- @rzrdevil # File to store allowed user IDs
 USER_FILE = "users.txt"
